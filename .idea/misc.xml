@@ -3,15 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/activity_board_edit.xml" value="0.1" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/activity_board_inside.xml" value="0.176" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/activity_board_write.xml" value="0.25" />
         <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/activity_talk_fragment.xml" value="0.12158054711246201" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/board_list_item.xml" value="0.264" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/comment_list_item.xml" value="0.264" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/custom_dialog.xml" value="0.1" />
-        <entry key="..\:/GURU2/Android_26/app/src/main/res/layout/fragment_talk.xml" value="0.264" />
       </map>
     </option>
   </component>
